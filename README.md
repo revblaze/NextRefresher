@@ -1,4 +1,4 @@
-## Proj 1: sqlite-graph-demo
+## Demo 1: [sqlite-graph-demo](https://github.com/revblaze/NextRefresher/tree/main/sqlite-graph-demo)
 
 1. Download international exchange rate data [(source)](https://www.bis.org/statistics/full_xru_d_csv_row.zip)
 2. Convert CSV to SQLite using NPM library
