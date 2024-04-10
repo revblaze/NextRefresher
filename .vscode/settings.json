@@ -1,0 +1,26 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "eslint.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.tabSize": 2,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jira-plugin.workingProject": "",
+
+  // Fix annoying inline window on mod+click
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+}
